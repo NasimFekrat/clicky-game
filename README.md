@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can play this game in the folowing URL:
 
-    *   https://whispering-bayou-18713.herokuapp.com/
+ * https://whispering-bayou-18713.herokuapp.com/
 
 - - -
 
